@@ -2,10 +2,10 @@
   <a href="https://simplemta.herokuapp.com/">
     <img src="/client/src/imgs/svg/mticon.svg" width="180px" height="180px" alt="icon with magnifying glass and train" />
   </a>
-  <h1>SimpleMTA</h1>
+  <h1>Simple MTA</h1>
 </div>
 
-*SimpleMTA* is a personalized version of MTA's website that is designed for day to day use while also maintaining its core value, *simplicity*. It provides users with an easy way to look up train lines, train stations and an easy way for users to bookmark stations that they go to more frequently. 
+*Simple MTA* is a personalized version of MTA's website that is designed for day to day use while also maintaining its core value, *simplicity*. It provides users with an easy way to look up train lines, train stations and an easy way for users to bookmark stations that they go to more frequently. 
 
 It is also our group's final project for *[CUNY Tech Prep's](https://cunytechprep.nyc/)* Web Development Track.
 

@@ -42,7 +42,7 @@ export default function ButtonAppBar() {
     <div className={classes.root}>
       <AppBar position="static" style={{ background: 'transparent', boxShadow: 'none' }}>
         <Toolbar>
-          <IconButton edge="start" className={classes.githubButton} color="inherit" aria-label="menu" target="_blank" href="https://github.com/Chuezhang2278/MTA-Tracker" rel="noopener noreferrer">
+          <IconButton edge="start" className={classes.githubButton} color="inherit" aria-label="menu" target="_blank" href="https://github.com/Chuezhang2278/SimpleMTA" rel="noopener noreferrer">
             <GitHubIcon />
           </IconButton>
           <Box className={classes.leftSide}>

@@ -36,3 +36,6 @@ Background Photos provided by:
 Logo Vector Images provided by:
 * [Magnifying Glass](https://thenounproject.com/search/?q=magnify&i=589366) created by Delwar Hossian from Noun Project
 * [Train](https://thenounproject.com/search/?q=train&i=3888723) created by HideMaru from Noun Project
+
+Train Icons provided by:
+* [Train icons](https://github.com/louh/mta-subway-bullets) created by louh on GitHub

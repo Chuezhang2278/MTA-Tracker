@@ -7,7 +7,6 @@ const nearbyController = require('./nearby.js');
 const lineController = require('./line.js');
 const stationController = require('./station.js');
 const userController = require('./user.js');
-const postsController = require('./posts.js');
 const appConfigController = require('./appConfig.js');
 
 
@@ -17,7 +16,6 @@ router.use('/nearby', nearbyController);
 router.use('/line', lineController);
 router.use('/station', stationController);
 router.use('/user', userController);
-router.use('/posts', postsController);
 router.use('/application-configuration', appConfigController);
 
 

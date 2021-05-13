@@ -65,7 +65,7 @@ const Register = ({ onClick, styles }) => {
         <TextField
           fullWidth={true}
           variant="standard"
-          label="Username"
+          label="Username (case-sensitive)"
           name="username"
           value={values.username}
           onChange={handleChange}

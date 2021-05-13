@@ -13,7 +13,7 @@ import { NavBar, AboutUsCard } from '../components/index';
 
 import czImage from "../imgs/github_img/chue.png"
 import jmImage from "../imgs/github_img/jiaming.jpg"
-import xmImage from "../imgs/github_img/sunny.png"
+import xmImage from "../imgs/github_img/sunny.jpg"
 
 const czRepo = "https://github.com/Chuezhang2278"
 const jmRepo = "https://github.com/jma8774"

@@ -68,7 +68,7 @@ const LoginRegister = () => {
               <img src={logo} width="120px" height="120px" alt="icon with train and magnifying glass" />
             </Grid>
             <Grid item>
-              <h1 className={classes.title}>Simple MTA</h1>
+              <h1 className={classes.title}>SimpleMTA</h1>
             </Grid>
           </Grid>
 

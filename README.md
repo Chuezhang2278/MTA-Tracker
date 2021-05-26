@@ -7,9 +7,9 @@
 </div>
 
 ### Contributors
-- Chue Zhang
-- Jia Ming Ma
-- Xiang Min Mo
+- [Chue Zhang](https://github.com/Chuezhang2278)
+- [Jia Ming Ma](https://github.com/jma8774)
+- [Xiangmin Mo](https://github.com/mxmsunny)
 
 
 *Simple MTA* is a personalized version of MTA's website that is designed for day to day use while also maintaining its core value, *simplicity*. It provides users with an easy way to look up train lines, train stations and an easy way for users to bookmark stations that they go to more frequently. 

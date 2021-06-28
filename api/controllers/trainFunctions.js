@@ -13,7 +13,6 @@ const urls = [
   'https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-nqrw',
   'https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-l',
   'https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs',
-  'https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-7',
   'https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-si'
 ]
 
@@ -93,8 +92,8 @@ async function getTrips(callback) {
         });
         numFetched ++
         // console.log("\nCompleted one")
-        if(numFetched === 9) {
-          // console.log("\nFinished fetching live data from all 9 APIs")
+        if(numFetched === 8) {
+          // console.log("\nFinished fetching live data from all 8 APIs")
           callbackHelper(callback, tripData)
         }
     }); 
